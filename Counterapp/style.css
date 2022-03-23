@@ -1,0 +1,29 @@
+
+
+h1 {
+text-align: center;
+position: top;
+border: 1px solid rgb(0, 0, 0);
+}
+h2{
+    font-size: 58px;
+    text-align: center;
+}
+
+body{
+background-color: rgb(255, 204, 204);
+}
+
+.button {
+   
+    font-family:Comic Sans MS;
+    background-color: brown;
+    font-size: 40px;
+    border-radius: 6px;
+}
+
+.center {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
